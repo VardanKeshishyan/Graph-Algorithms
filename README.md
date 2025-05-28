@@ -9,11 +9,12 @@ Examples of BFS and DFS:
 **WHAT GRAPHS ARE USED FOR THE PROJECT
 **
 
-![image](https://github.com/user-attachments/assets/bcc67565-5c8d-46c0-8a54-597ef42e8fc4)
+![image](https://github.com/user-attachments/assets/4a917456-aa32-4765-8ead-20658e1320c9)
 
-![image](https://github.com/user-attachments/assets/639696a7-ce91-4966-945a-580d14f78991)
+![image](https://github.com/user-attachments/assets/3d6d7014-71c4-4b8f-bb99-cd7aef8b96d6)
 
-![image](https://github.com/user-attachments/assets/58440b47-06ba-41c4-884c-62fba46e830b)
+![image](https://github.com/user-attachments/assets/f1b0e5e7-2fa2-4b42-9be7-b34bf546fa35)
+
 
 
 
