@@ -1,5 +1,5 @@
 F = -std=c++20 -Wall -Wextra -Wpedantic -Wfatal-errors
-Z = ICS46_hw8.zip
+Z = "Your file name".zip
 P = graph
 
 def: $P
